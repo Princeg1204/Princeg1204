@@ -3,7 +3,7 @@
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/4725b8bcda125abe7042d13704f5673d3826e7c030236efb9494637a892edbe8/68747470733a2f2f616d70726f6e2e65752f77702d636f6e74656e742f75706c6f6164732f323031392f30312f636f64652d646576656c6f7065722e676966" alt="gajeraprince" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gajeraprince" alt="gajeraprince" /></a> </p>
+<p align="left"> <imghref="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gajeraprince" alt="gajeraprince" /></a> </p> 
 
 - 🔭 I’m currently working on [Cloud-based Portfolio Website using AWS](https://github.com/gajeraprince/cloud-portfolio)
 
