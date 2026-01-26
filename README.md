@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gajera Prince</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gajeraprince&label=Profile%20views&color=0e75b6&style=flat" alt="gajeraprince" /> </p>
+<img align="right" width="400" src="https://camo.githubusercontent.com/4725b8bcda125abe7042d13704f5673d3826e7c030236efb9494637a892edbe8/68747470733a2f2f616d70726f6e2e65752f77702d636f6e74656e742f75706c6f6164732f323031392f30312f636f64652d646576656c6f7065722e676966" alt="gajeraprince" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gajeraprince" alt="gajeraprince" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gajeraprince" target="blank"><img src="https://img.shields.io/twitter/follow/gajeraprince?logo=twitter&style=for-the-badge" alt="gajeraprince" /></a> </p>
 
 - 🔭 I’m currently working on [Cloud-based Portfolio Website using AWS](https://github.com/gajeraprince/cloud-portfolio)
 
