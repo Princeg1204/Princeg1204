@@ -31,7 +31,4 @@ Email Me 👉 ✉️ **gajerap081@gmail.com** For Collaboration/Project or Tech 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://komarev.com/ghpvc/?username=Princeg1204&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
